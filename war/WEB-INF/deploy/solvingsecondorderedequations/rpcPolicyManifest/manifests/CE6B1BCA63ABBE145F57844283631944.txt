@@ -1,0 +1,2 @@
+serviceClass: mohammed.dieb.client.Solve
+path: CD1A613B089FA1DA3C2BA913DD8869D7.gwt.rpc
